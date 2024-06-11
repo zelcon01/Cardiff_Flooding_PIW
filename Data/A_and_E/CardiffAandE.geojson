@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CardiffAandE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Provider_D": "Cardiff Royal Infirmary", "Google_Map": "https:\/\/goo.gl\/maps\/V7xtJwvUopHvFeBB7", "Latitude": 51.484934, "Longitude": -3.1806704 }, "geometry": { "type": "Point", "coordinates": [ -3.162612154999977, 51.485189130000037 ] } },
+{ "type": "Feature", "properties": { "Provider_D": "University Hospital of Wales Emergency Department", "Google_Map": "https:\/\/goo.gl\/maps\/czNxXSdAB77FmuCA9", "Latitude": 51.5061939, "Longitude": -3.1996316 }, "geometry": { "type": "Point", "coordinates": [ -3.188966111999946, 51.506924524000055 ] } },
+{ "type": "Feature", "properties": { "Provider_D": "University Hospital Llandough", "Google_Map": "https:\/\/goo.gl\/maps\/memzNxtcUdcHL8qK9", "Latitude": 51.4540811, "Longitude": -3.2033876 }, "geometry": { "type": "Point", "coordinates": [ -3.202838899999961, 51.449375970000062 ] } }
+]
+}
